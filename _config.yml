@@ -30,3 +30,5 @@ github:
   repo:           https://github.com/
 
 plugins: [jekyll-paginate, jekyll-gist, redcarpet]
+
+include: ["_includes", "_layouts", "_posts", "_site"]
