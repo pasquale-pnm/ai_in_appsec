@@ -16,6 +16,7 @@ tagline:          'A Security blog'
 description:			'With all the fears and hopes of what AI can bring to cyber security, let us take a deep dive into the possibilities'
 url:              https://pasquale-pnm.github.io/ai_in_appsec/
 baseurl:          /
+theme: jekyll-theme-hyde
 
 author:
   name:           'Pasquale Kress'
