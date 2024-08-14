@@ -1,0 +1,32 @@
+# Dependencies
+# markdown:         redcarpet
+markdown: kramdown # this is also changed according woth the guide from audity.github.io
+
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# according to https://audity.github.io/2024/04/21/Jekyll-And-Hyde/ this has to go
+# relative_permalinks: true
+
+# Setup
+title:           	AI for Security 
+tagline:          'A Security blog'
+description:			'With all the fears and hopes of what AI can bring to cyber security, let us take a deep dive into the possibilities'
+url:              https://pasquale-pnm.github.io
+baseurl:          /
+
+author:
+  name:           'Pasquale Kress'
+  url:            https://twitter.com/
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/
+
+plugins: [jekyll-paginate, jekyll-gist, redcarpet]
