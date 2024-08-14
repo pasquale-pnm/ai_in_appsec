@@ -14,7 +14,7 @@ permalink:        pretty
 title:           	AI for Security 
 tagline:          'A Security blog'
 description:			'With all the fears and hopes of what AI can bring to cyber security, let us take a deep dive into the possibilities'
-url:              https://pasquale-pnm.github.io
+url:              https://pasquale-pnm.github.io/ai_in_appsec/
 baseurl:          /
 
 author:
