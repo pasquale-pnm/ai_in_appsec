@@ -18,7 +18,7 @@ url:              https://pasquale-pnm.github.io/ai_in_appsec/
 baseurl:          /
 
 # trying to set the remote theme
-remote_theme: "poole/hyde@v3.0.0"
+# remote_theme: "poole/hyde@v3.0.0"
 
 author:
   name:           'Pasquale Kress'
